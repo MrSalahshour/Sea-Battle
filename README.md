@@ -1,2 +1,2 @@
 # Sea-Battle
-Sharif University of Technology AP Course's server based homework.
+Advanced Programming Course's server-based projects.
